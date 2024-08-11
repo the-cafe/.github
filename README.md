@@ -1,7 +1,17 @@
-# the cafe ☕️🌃 (📍 west new york, new jersey)
+# the cafe ☕️🌃
+> 📍 west new york, new jersey
 
-cool open source cli tools that you appreciate but don't notice.
+cooking up open source cli tools that slap, but fly under the radar.
 
-built through weekends & all nighters 
+## what we're cookin' 🍳
 
-also lots of coffee, and yerbamate
+- 💻 saucy dev tools
+- 🎯 workflow boosters that hit different
+- 🚀 ship stuff that's lowkey fire
+
+## how we get cooked 🌙
+
+- 🔥 weekend grinds
+- 🦉 all nighters
+- ☕️ caffeine 
+- 🧉 yerba mate
