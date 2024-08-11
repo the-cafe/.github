@@ -1,7 +1,8 @@
-# the cafe ☕️🌃
-> 📍 west new york, new jersey
+![alialobaidi6050_A_Studio_Ghibli-inspired_underground_coffee_sho_5710bfdb-17f6-4b72-a1d4-a21c0033679e](https://github.com/user-attachments/assets/a0dc6538-608e-4291-9dab-fd620cf2ae92)
 
-cooking up open source cli tools that slap, but fly under the radar.
+📍 west new york, new jersey
+
+🔨 cooking up open source cli tools that slap, but fly under the radar.
 
 ## what we're cookin' 🍳
 
