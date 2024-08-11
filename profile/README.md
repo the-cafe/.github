@@ -4,7 +4,7 @@
 
 🔨 cooking up open source cli tools that slap, but fly under the radar.
 
-## what we're cookin' 🍳
+## what we're brewin' ☕️
 
 - 💻 saucy dev tools
 - 🎯 workflow boosters that hit different
